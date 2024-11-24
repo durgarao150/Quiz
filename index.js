@@ -4,7 +4,7 @@ var total = 10; // Number of total questions
 
 var questions = [
     "",
-    "What is the largest planet in our Solar System?",
+    "Which planet is the largest planet in the solar system?",
     "Which planet is known as the 'Red Planet'?",
     "How long does it take for the Earth to complete one orbit around the Sun?",
     "What is the hottest planet in our solar system?",
