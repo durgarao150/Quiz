@@ -4,7 +4,7 @@ var total = 10; // Number of total questions
 
 var questions = [
     "",
-    "Which planet is smallest in the solar System",
+    "Which planet is the largest planet in the solar system",
     "Which planet is known as the 'Red Planet'?",
     "How long does it take for the Earth to complete one orbit around the Sun?",
     "What is the hottest planet in our solar system?",
@@ -18,7 +18,7 @@ var questions = [
 
 var choices = [
     [],
-    ["Earth", "Mars", "Jupiter", "Mercury"],
+    ["Earth", "Mars", "Jupiter", "Venus"],
     ["Venus", "Mars", "Mercury", "Neptune"],
     ["24 hours", "365 days", "30 days", "12 months"],
     ["Venus", "Mercury", "Mars", "Earth"],
@@ -30,7 +30,7 @@ var choices = [
     ["Asteroid", "Meteor", "Comet", "Meteorite"]
 ];
 
-var solutions = ["", "d", "b", "b", "a", "b", "c", "c", "c", "b", "b"]; // Correct answers
+var solutions = ["", "c", "b", "b", "a", "b", "c", "c", "c", "b", "b"]; // Correct answers
 
 var compliments = [
     "Awesome job!",
